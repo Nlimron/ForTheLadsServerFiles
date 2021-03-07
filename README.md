@@ -8,7 +8,7 @@ It should auto select Minecraft Version: 1.16.5, make sure the box labled Create
 and now go ahead and click install.
 Once it is installed you need to open the minecraft launcher and change your profile to the left of the
 play button to the "fabric-loader" profile then click play and let minecraft launch.
-After Minecraft has launched close out of the game and open your .minecraft directory which can be found
+After Minecraft has launched close out of the game and open your ".minecraft" directory which can be found
 by typing "%appdata%" into your windows search bar or if you can't find it there try
 following this path (ThisPC>LocalDisk>Users>[YourUser]>AppData>Roaming). Once in that folder open the folder
 labled "mods" if you don't have one then you can go ahead and create a new folder and name it that.
