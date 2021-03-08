@@ -12,7 +12,7 @@ After Minecraft has launched close out of the game and open your ".minecraft" di
 by typing "%appdata%" into your windows search bar or if you can't find it there try
 following this path (ThisPC>LocalDisk>Users>[YourUser]>AppData>Roaming). Once in that folder open the folder
 labled "mods" if you don't have one then you can go ahead and create a new folder and name it that.
-Next you need to place all of the following files into your "mods" folder
-(cloth-config,fabric-api,flytr_lib,RoughlyEnoughItems,better-end) The fist 4 mods are inside of the "Mods.zip" file you downloaded, the last one is the external link at the start of this note.
-Once all of those mods are in the folder you are all set to start playing, go ahead and close any files you still
+Next make sure that all of ".jar" files you have downloaded (some are in .zip files) are placed into your
+"mods" folder. The only file that doesn't go in there is the fabric-installer.
+Once all of the mods are in the folder you are all set to start playing, go ahead and close any files you still
 have open and boot up minecraft, and pray to the mod gods that it works!
