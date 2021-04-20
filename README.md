@@ -2,7 +2,7 @@
 Okay you nerds.
 First make sure you have downloaded all of the files from the github site.
 You also need to download this one separately, https://www.curseforge.com/minecraft/mc-mods/betterend/files/3203464
-Make sure to download the 0.9.1-pre.jar file
+Make sure to download the 0.9.1-pre.jar file.
 Next you need to run the fabric-installer, once it has opened you need to make sure that in the top
 left of the installer the "client" tab is selected.
 It should auto select Minecraft Version: 1.16.5, make sure the box labled Create profile is ticked,
