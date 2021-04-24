@@ -15,6 +15,9 @@ following this path (ThisPC>LocalDisk>Users>[YourUser]>AppData>Roaming). Once in
 labled "mods" if you don't have one then you can go ahead and create a new folder and name it that.
 Next make sure that all of the ".jar" files you have downloaded (some are in .zip files, right click and extract these ones) 
 are placed into your
-"mods" folder. The only file that doesn't go in there is the fabric-installer.
+"mods" folder. 
+This means you should have mods from the "mods.zip" file, the "these mods as well", and the "origins mods" files as well as the
+better end mod from the link at the top of this README file.
+The only file that doesn't go in there is the fabric-installer.
 Once all of the mods are in the folder you are all set to start playing, go ahead and close any files you still
 have open and boot up minecraft, and pray to the mod gods that it works!
