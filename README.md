@@ -13,8 +13,7 @@ After Minecraft has launched close out of the game and open your ".minecraft" di
 by typing "%appdata%" into your windows search bar or if you can't find it there try
 following this path (ThisPC>LocalDisk>Users>[YourUser]>AppData>Roaming). Once in that folder open the folder
 labled "mods" if you don't have one then you can go ahead and create a new folder and name it that.
-Next make sure that all of the ".jar" files you have downloaded (some are in .zip files, right click and extract these ones) 
-are placed into your
+Next make sure that all of the ".jar" files you have downloaded are placed into your
 "mods" folder. 
 This means you should have mods from the "mods.zip" file, the "these mods as well", and the "origins mods" files as well as the
 better end mod from the link at the top of this README file.
